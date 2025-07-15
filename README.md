@@ -16,7 +16,10 @@ The following **required** functionality is completed:
 - [x] **`useEffect` React hook and `async`/`await` are used**
 - [x] **The app dashboard includes at least three summary statistics about the data** 
   - The app dashboard includes at least three summary statistics about the data, such as:
-    - *insert details here*
+    - *Total Games*
+    - *Average Rating*
+    - *Top Genre*
+    - *High Rated Games*
 - [x] **A search bar allows the user to search for an item in the fetched data**
   - The search bar **correctly** filters items in the list, only displaying items matching the search query
   - The list of results dynamically updates as the user types into the search bar
@@ -40,6 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![gg+dash](https://github.com/user-attachments/assets/cde9830b-788f-405a-94db-62c52d699f6f)
 
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
