@@ -2,7 +2,7 @@
 
 Submitted by: **William Zheng**
 
-This web app: **A game dashboard that helps users discover and compare video games. Browse a curated list of games, each showing key details like genre and rating. Use the search bar to quickly find games by name, or filter by genre to match your interests. Powered by the RAWG API, the dashboard always displays up-to-date game info. Summary statistics—such as total games, top genres, and average ratings—offer quick insights. With dynamic search, filters, and real-time data, this tool is useful for both casual and dedicated gamers.**
+This web app: **A game dashboard that helps users discover and compare video games. Browse a curated list of games, each showing key details like genre and rating. Use the search bar to quickly find games by name, or filter by genre to match your interests. Powered by the RAWG API, the dashboard always displays up-to-date game info. Summary statistics such as total games, top genres, and average ratings offer quick insights. With dynamic search, filters, and real-time data, this tool is useful for both casual and dedicated gamers.**
 
 Time spent: **22** hours spent in total
 
@@ -50,7 +50,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 
 ## Notes
-This project has been the most challenging so far, as it brings together everything I've learned up to this point. Working with a new API was enjoyable—personally, I found the RAWG API intuitive and easy to use. Through this project, I really saw why methods like `map` and `filter` are so essential and widely used; they have countless applications, especially when handling data.
+This project has been the most challenging so far, as it brings together everything I've learned up to this point. Working with a new API was enjoyable personally, I found the RAWG API intuitive and easy to use. Through this project, I really saw why methods like `map` and `filter` are so essential and widely used; they have countless applications, especially when handling data.
 
 CSS was, once again, a struggle for me, but I'm happy with how the site turned out overall. At first, the project felt overwhelming because there were so many moving parts. To manage this, I broke down each part of the app into its own component, which helped with organization but made styling even more confusing. Still, it's incredibly satisfying to see all the pieces come together in the end.
 
